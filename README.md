@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# สวัสดี ชื่อของผมคือ กิตติกร
+- 🔭 ผมทำงานอยู่ที่ [Anime Kario](https://www.animejapanth.com)
 <!--
 **kumihoaomkung/kumihoaomkung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
