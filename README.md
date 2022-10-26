@@ -1,9 +1,10 @@
 # <p align="center">My Github Profile</p>
 ### <p align="center">Manager For Masuru-Project</p>
 
-<p align="left">
+<p align="center">
 <img height="150px" src="https://lanyard-profile-readme.vercel.app/api/527383789475856426" />
 </p>
+<p align="center"> <img src="https://count.getloli.com/get/@kumihoaomkung?theme=rule34" alt="kumihoaomkung" /> </p>
 
 <p align="center">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=kumihoaomkung&show_icons=true&count_private=true&theme=dracula" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumihoaomkung&layout=compact&count_private=true&theme=dracula" alt="Masuru" />
