@@ -1,13 +1,23 @@
 # Hi, I'm `Aomkoyo`. 
 
-## About me
-Name: `Aomkoyo` 
+<p>
+Name: <b>Aomkoyo</b> <br>
+Age: <b>18</b> year <br>
+Address: <b>Phichit, Thailand</b> <br>
+Hobbies: <b>Gaming, Coding, Anime, Watching Vtuber</b> <br>
+</p>
 
-Age: `18` year
+### Now Activity 
+```
+ปิดกั้นใจตัวเองเถอะถ้าสุดท้ายเเล้ว เราก็กลายเป็นคนน่าลำคาญ
+ก็นะ ตรรกะตัวเอง อาจทำให้คนอื่นไม่ชอบ ก็ทำเถอะ
+ไม่อยากเสียความรู้สึกหรือผิดหวังอีกเเล้ว
+```
 
-Address: `Phichit, Thailand`
+### My Favorite Vtuber
 
-Hobbies: `Gaming, Coding, Anime, Watching Vtuber`
+- **[Lilia / ลิเลีย](https://www.youtube.com/channel/UCF_-M79ivR0lBcxI4VcYiWg)**
+- **[Hakui Koyori](https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw)**
 
 ## Contact
 - **Instagram**: [@aomkoyo](https://www.instagram.com/aomkoyo/)
