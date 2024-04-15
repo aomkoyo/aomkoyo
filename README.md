@@ -1,17 +1,17 @@
-# Hi, I'm Aomkoyo. 
+# Hi, I'm `Aomkoyo`. 
 
 ## About me
-Name: Aomkoyo 
+Name: `Aomkoyo` 
 
-Age: 18 year
+Age: `18` year
 
-Address: Phichit, Thailand
+Address: `Phichit, Thailand`
 
-Hobbies: Gaming, Coding, Anime, Watching Vtuber
+Hobbies: `Gaming, Coding, Anime, Watching Vtuber`
 
 ## Contact
-- Instagram: [@aomkoyo](https://www.instagram.com/aomkoyo/)
-- Email: [kittikorn.g@masuru.in.th](mailto:kittikorn.g@masuru.in.th)
+- **Instagram**: [@aomkoyo](https://www.instagram.com/aomkoyo/)
+- **Email**: [kittikorn.g@masuru.in.th](mailto:kittikorn.g@masuru.in.th)
 
 
 
@@ -35,11 +35,11 @@ Hobbies: Gaming, Coding, Anime, Watching Vtuber
 - **[Aomkoyo's Portfolio](https://aomkoyo.com)**
 - **[Lilia#9665 Dashboard](https://bot.masuru.in.th)**
 
-## Stats
-![Aomkoyo's GitHub stats](https://github-readme-stats.vercel.app/api?username=aomkoyo&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aomkoyo&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aomkoyo&show_icons=true&theme=radical&count_private=true" alt="Aomkoyo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aomkoyo&layout=compact&theme=radical" alt="Aomkoyo's Top Languages" />
+</p>
 
 
 ## Visitors Count
