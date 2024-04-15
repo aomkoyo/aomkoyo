@@ -58,4 +58,4 @@ Hobbies: <b>Gaming, Coding, Anime, Watching Vtuber</b> <br>
 
 ## Donate
 - **[Paypal](https://paypal.me/aomkoyo)**
-- **[Easydonate](https://easydonate.me/aomkoyo)**
+- **[Easydonate](https://easydonate.app/aomkoyo)**
