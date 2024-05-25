@@ -4,7 +4,6 @@
 Name: <b>Aomkoyo</b> <br>
 Age: <b>18</b> year <br>
 Address: <b>Phichit, Thailand</b> <br>
-Hobbies: <b>Gaming, Coding, Anime, Watching Vtuber</b> <br>
 </p>
 
 ### Now Activity 
@@ -29,7 +28,7 @@ Hobbies: <b>Gaming, Coding, Anime, Watching Vtuber</b> <br>
 - **Co-Founder of [Masuru](https://masuru.in.th)**
   - Project Manager
   - Full-Stack Developer 
-- **Co-Founder of [Furimoe](https://furimoe.masuru.in.th)**
+- **Co-Founder of [Furimoe](https://furi.moe)**
   - Full-Stack Developer
   - Manager 
   - Content Creator
@@ -41,7 +40,7 @@ Hobbies: <b>Gaming, Coding, Anime, Watching Vtuber</b> <br>
 
 ## Projects
 - **[Masuru](https://masuru.in.th)**
-- **[Furimoe](https://furimoe.masuru.in.th)**
+- **[Furimoe](https://furi.moe)**
 - **[Aomkoyo's Portfolio](https://aomkoyo.com)**
 - **[Lilia#9665 Dashboard](https://bot.masuru.in.th)**
 
