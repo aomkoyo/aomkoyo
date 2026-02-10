@@ -33,7 +33,7 @@
 ### 🛠️ 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀 & 𝒮𝓀𝒾𝓁𝓁𝓈
 | 🔮 Category | 🪄 Tools & Languages |
 | :--- | :--- |
-| **Languages** | `TypeScript`, `JavaScript`, `HTML`, `CSS`, `PHP` |
+| **Languages** | `TypeScript`, `JavaScript`, `Java`, `Rust`, `PHP`, `C`, `C++`, `C#` |
 | **Frameworks** | `Vue`, `Nuxt`, `React`, `Next`, `Express` |
 | **Databases** | `MySQL`, `MongoDB` |
 
