@@ -16,7 +16,7 @@
 
 | 🌸 Feature | 🍬 Details |
 | :--- | :--- |
-| **Name** | Aomkoyo (ออมโกโยะ) |
+| **Name** | Aomkoyo (ออมโคโย) |
 | **Age** | 20 Years |
 | **Location** | Phichit, Thailand 🇹🇭 |
 | **Status** | Co-Founder @ **Masuru** & **Furimoe** |
